@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
 ---
+## **자기 소개**
 
-My name is Inigo Montoya. I have the following qualities:
+안녕하세요! 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+제주대학교 컴퓨터교육과 김장혁입니다.
 
-What else do you need?
+## **학력**
 
-### my history
+* 서귀중앙초등학교 졸업
+* 서귀포중학교 졸업
+* 서귀포고등학교 졸업
+* 제주대학교 컴퓨터교육과 재학
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
