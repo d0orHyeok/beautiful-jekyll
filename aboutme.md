@@ -1,12 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 안녕하세요! 제주대학교 컴퓨터교육과 김장혁입니다.
 ---
 
-#### 안녕하세요! 
-
-#### 제주대학교 컴퓨터교육과 김장혁입니다.
 
 ## **학력**
 
